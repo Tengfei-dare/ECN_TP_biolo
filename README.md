@@ -1,5 +1,5 @@
 # ECN_TP_biolo
-analyse code genetic, app shiny
+Analyse code genetic, app shiny
 
 Subject: https://limousophie.univ-nantes.io/biolo_tp_r_genetic_code/
 
