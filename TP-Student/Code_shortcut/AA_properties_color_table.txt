@@ -1,0 +1,5 @@
+Property	Color
+Basic	"#ff8d8d"
+Acidic	"#fffa90"
+Polar	"#87b5af"
+Hydrophobic	"#b3c7ff"

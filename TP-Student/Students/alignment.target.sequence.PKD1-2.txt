@@ -1,0 +1,472 @@
+########################################
+# Program: Biostrings (version 2.58.0), a Bioconductor package
+# Rundate: Thu Jan 28 00:16:55 2021
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: PKD1_protein | Human | 4303aa
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 14.0
+# Extend_penalty: 4.0
+#
+# Length: 4303
+# Identity:     152/4303 (3.5%)
+# Similarity:    NA/4303 (NA%)
+# Gaps:        3814/4303 (88.6%)
+# Score: -14902
+#
+#
+#=======================================
+
+PKD1_protein | Human | 4303aa    1 MPPAAPARLALALGLGLWLGALAGGPGRGCGPCEPPCLCGPAPGAACRVN     50
+                                                                                     
+S1                               1 T-------------------------------------------------      1
+
+PKD1_protein | Human | 4303aa   51 CSGRGLRTLGPALRIPADATALDVSHNLLRALDVGLLANLSALAELDISN    100
+                                                                                     
+S1                               2 --------------------------------------------------      1
+
+PKD1_protein | Human | 4303aa  101 NKISTLEEGIFANLFNLSEINLSGNPFECDCGLAWLPRWAEEQQVRVVQP    150
+                                                                                     
+S1                               2 --------------------------------------------------      1
+
+PKD1_protein | Human | 4303aa  151 EAATCAGPGSLAGQPLLGIPLLDSGCGEEYVACLPDNSSGTVAAVSFSAA    200
+                                                                                     
+S1                               2 --------------------------------------------------      1
+
+PKD1_protein | Human | 4303aa  201 HEGLLQPEACSAFCFSTGQGLAALSEQGWCLCGAAQPSSASFACLSLCSG    250
+                                                                                     
+S1                               2 --------------------------------------------------      1
+
+PKD1_protein | Human | 4303aa  251 PPPPPAPTCRGPTLLQHVFPASPGATLVGPHGPLASGQLAAFHIAAPLPV    300
+                                                                                     
+S1                               2 --------------------------------------------------      1
+
+PKD1_protein | Human | 4303aa  301 TATRWDFGDGSAEVDAAGPAASHRYVLPGRYHVTAVLALGAGSALLGTDV    350
+                                                                                     
+S1                               2 --------------------------------------------------      1
+
+PKD1_protein | Human | 4303aa  351 QVEAAPAALELVCPSSVQSDESLDLSIQNRGGSGLEAAYSIVALGEEPAR    400
+                                                                                     
+S1                               2 --------------------------------------------------      1
+
+PKD1_protein | Human | 4303aa  401 AVHPLCPSDTEIFPGNGHCYRLVVEKAAWLQAQEQCQAWAGAALAMVDSP    450
+                                                                                     
+S1                               2 --------------------------------------------------      1
+
+PKD1_protein | Human | 4303aa  451 AVQRFLVSRVTRSLDVWIGFSTVQGVEVGPAPQGEAFSLESCQNWLPGEP    500
+                                                                                     
+S1                               2 --------------------------------------------------      1
+
+PKD1_protein | Human | 4303aa  501 HPATAEHCVRLGPTGWCNTDLCSAPHSYVCELQPGGPVQDAENLLVGAPS    550
+                                                                                     
+S1                               2 --------------------------------------------------      1
+
+PKD1_protein | Human | 4303aa  551 GDLQGPLTPLAQQDGLSAPHEPVEVMVFPGLRLSREAFLTTAEFGTQELR    600
+                                                                     ||  |           
+S1                               2 ---------------------------------NREKYLKS---------      9
+
+PKD1_protein | Human | 4303aa  601 RPAQLRLQVYRLLSTAGTPENGSEPESRSPDNRTQLAPACMPGGRWCPGA    650
+                                           | | | |                                   
+S1                              10 --------VLRELVT-----------------------------------     16
+
+PKD1_protein | Human | 4303aa  651 NICLPLDASCHPQACANGCTSGPGLPGAPYALWREFLFSVPAGPPAQYSV    700
+                                                                                     
+S1                              17 --------------------------------------------------     16
+
+PKD1_protein | Human | 4303aa  701 TLHGQDVLMLPGDLVGLQHDAGPGALLHCSPAPGHPGPQAPYLSANASSW    750
+                                                                            ||       
+S1                              17 -----------------------------------------YL-------     18
+
+PKD1_protein | Human | 4303aa  751 LPHLPAQLEGTWACPACALRLLAATEQLTVLLGLRPNPGLRLPGRYEVRA    800
+                                                                                     
+S1                              19 --------------------------------------------------     18
+
+PKD1_protein | Human | 4303aa  801 EVGNGVSRHNLSCSFDVVSPVAGLRVIYPAPRDGRLYVPTNGSALVLQVD    850
+                                                                                     
+S1                              19 --------------------------------------------------     18
+
+PKD1_protein | Human | 4303aa  851 SGANATATARWPGGSVSARFENVCPALVATFVPGCPWETNDTLFSVVALP    900
+                                                                             ||  |   
+S1                              19 ------------------------------------------LFLIVL--     24
+
+PKD1_protein | Human | 4303aa  901 WLSEGEHVVDVVVENSASRANLSLRVTAEEPICGLRATPSPEARVLQGVL    950
+                                                                                     
+S1                              25 --------------------------------------------------     24
+
+PKD1_protein | Human | 4303aa  951 VRYSPVVEAGSDMVFRWTINDKQSLTFQNVVFNVIYQSAAVFKLSLTASN   1000
+                                                                                     
+S1                              25 --------------------------------------------------     24
+
+PKD1_protein | Human | 4303aa 1001 HVSNVTVNYNVTVERMNRMQGLQVSTVPAVLSPNATLALTAGVLVDSAVE   1050
+                                                                                     
+S1                              25 --------------------------------------------------     24
+
+PKD1_protein | Human | 4303aa 1051 VAFLWTFGDGEQALHQFQPPYNESFPVPDPSVAQVLVEHNVMHTYAAPGE   1100
+                                                                                     
+S1                              25 --------------------------------------------------     24
+
+PKD1_protein | Human | 4303aa 1101 YLLTVLASNAFENLTQQVPVSVRASLPSVAVGVSDGVLVAGRPVTFYPHP   1150
+                                                                                     
+S1                              25 --------------------------------------------------     24
+
+PKD1_protein | Human | 4303aa 1151 LPSPGGVLYTWDFGDGSPVLTQSQPAANHTYASRGTYHVRLEVNNTVSGA   1200
+                                                                                     
+S1                              25 --------------------------------------------------     24
+
+PKD1_protein | Human | 4303aa 1201 AAQADVRVFEELRGLSVDMSLAVEQGAPVVVSAAVQTGDNITWTFDMGDG   1250
+                                                                                     
+S1                              25 --------------------------------------------------     24
+
+PKD1_protein | Human | 4303aa 1251 TVLSGPEATVEHVYLRAQNCTVTVGAASPAGHLARSLHVLVFVLEVLRVE   1300
+                                                      |  | |                         
+S1                              25 -------------------CILTYG-------------------------     30
+
+PKD1_protein | Human | 4303aa 1301 PAACIPTQPDARLTAYVTGNPAHYLFDWTFGDGSSNTTVRGCPTVTHNFT   1350
+                                                                                     
+S1                              31 --------------------------------------------------     30
+
+PKD1_protein | Human | 4303aa 1351 RSGTFPLALVLSSRVNRAHYFTSICVEPEVGNVTLQPERQFVQLGDEAWL   1400
+                                              || |    | |                |   ||      
+S1                              31 ---------MMSSNV---YYYT----------------RMMSQL------     46
+
+PKD1_protein | Human | 4303aa 1401 VACAWPPFPYRYTWDFGTEEAAPTRARGPEVTFIYRDPGSYLVTVTASNN   1450
+                                                                                     
+S1                              47 --------------------------------------------------     46
+
+PKD1_protein | Human | 4303aa 1451 ISAANDSALVEVQEPVLVTSIKVNGSLGLELQQPYLFSAVGRGRPASYLW   1500
+                                                                                     
+S1                              47 --------------------------------------------------     46
+
+PKD1_protein | Human | 4303aa 1501 DLGDGGWLEGPEVTHAYNSTGDFTVRVAGWNEVSRSEAWLNVTVKRRVRG   1550
+                                          |  |                     ||  |             
+S1                              47 ------FLDTP---------------------VSKTEK------------     57
+
+PKD1_protein | Human | 4303aa 1551 LVVNASRTVVPLNGSVSFSTSLEAGSDVRYSWVLCDRCTPIPGGPTISYT   1600
+                                                                                     
+S1                              58 --------------------------------------------------     57
+
+PKD1_protein | Human | 4303aa 1601 FRSVGTFNIIVTAENEVGSAQDSIFVYVLQLIEGLQVVGGGRYFPTNHTV   1650
+                                                                                     
+S1                              58 --------------------------------------------------     57
+
+PKD1_protein | Human | 4303aa 1651 QLQAVVRDGTNVSYSWTAWRDRGPALAGSGKGFSLTVLEAGTYHVQLRAT   1700
+                                            ||                                       
+S1                              58 ---------TNFK-------------------------------------     61
+
+PKD1_protein | Human | 4303aa 1701 NMLGSAWADCTMDFVEPVGWLMVAASPNPAAVNTSVTLSAELAGGSGVVY   1750
+                                                                       |||           
+S1                              62 ------------------------------------TLS-----------     64
+
+PKD1_protein | Human | 4303aa 1751 TWSLEEGLSWETSEPFTTHSFPTPGLHLVTMTAGNPLGSANATVEVDVQV   1800
+                                     | |                                             
+S1                              65 --SMED--------------------------------------------     68
+
+PKD1_protein | Human | 4303aa 1801 PVSGLSIRASEPGGSFVAAGSSVPFWGQLATGTNVSWCWAVPGGSSKRGP   1850
+                                                                                     
+S1                              69 --------------------------------------------------     68
+
+PKD1_protein | Human | 4303aa 1851 HVTMVFPDAGTFSIRLNASNAVSWVSATYNLTAEEPIVGLVLWASSKVVA   1900
+                                                                                     
+S1                              69 --------------------------------------------------     68
+
+PKD1_protein | Human | 4303aa 1901 PGQLVHFQILLAAGSAVTFRLQVGGANPEVLPGPRFSHSFPRVGDHVVSV   1950
+                                                                                     
+S1                              69 --------------------------------------------------     68
+
+PKD1_protein | Human | 4303aa 1951 RGKNHVSWAQAQVRIVVLEAVSGLQVPNCCEPGIATGTERNFTARVQRGS   2000
+                                                                                     
+S1                              69 --------------------------------------------------     68
+
+PKD1_protein | Human | 4303aa 2001 RVAYAWYFSLQKVQGDSLVILSGRDVTYTPVAAGLLEIQVRAFNALGSEN   2050
+                                                                                     
+S1                              69 --------------------------------------------------     68
+
+PKD1_protein | Human | 4303aa 2051 RTLVLEVQDAVQYVALQSGPCFTNRSAQFEAATSPSPRRVAYHWDFGDGS   2100
+                                                                              | |  ||
+S1                              69 ------------------------------------------FWKFTEGS     76
+
+PKD1_protein | Human | 4303aa 2101 PGQDTDEPRAEHSYLRPGDYRVQVNASNLVSFFVAQATVTVQVLACREPE   2150
+                                                                                     
+S1                              77 --------------------------------------------------     76
+
+PKD1_protein | Human | 4303aa 2151 VDVVLPLQVLMRRSQRNYLEAHVDLRDCVTYQTEYRWEVYRTASCQRPGR   2200
+                                                                                     
+S1                              77 --------------------------------------------------     76
+
+PKD1_protein | Human | 4303aa 2201 PARVALPGVDVSRPRLVLPRLALPVGHYCFVFVVSFGDTPLTQSIQANVT   2250
+                                                                                     
+S1                              77 --------------------------------------------------     76
+
+PKD1_protein | Human | 4303aa 2251 VAPERLVPIIEGGSYRVWSDTRDLVLDGSESYDPNLEDGDQTPLSFHWAC   2300
+                                                            |||                   |  
+S1                              77 ------------------------LLDG-----------------LYW--     83
+
+PKD1_protein | Human | 4303aa 2301 VASTQREAGGCALNFGPRGSSTVTIPRERLAAGVEYTFSLTVWKAGRKEE   2350
+                                                                                  |  
+S1                              84 -----------------------------------------------KMQ     86
+
+PKD1_protein | Human | 4303aa 2351 ATNQTVLIRSGRVPIVSLECVSCKAQAVYEVSRSSYVYLEGRCLNCSSGS   2400
+                                     |||                        |    |    |   |      
+S1                              87 PSNQT------------------------EADNRSFIFYENLLL------    106
+
+PKD1_protein | Human | 4303aa 2401 KRGRWAARTFSNKTLVLDETTTSTGSAGMRLVLRRGVLRDGEGYTFTLTV   2450
+                                                                                     
+S1                             107 --------------------------------------------------    106
+
+PKD1_protein | Human | 4303aa 2451 LGRSGEEEGCASIRLSPNRPPLGGSCRLFPLGAVHALTTKVHFECTGWHD   2500
+                                                                                     
+S1                             107 --------------------------------------------------    106
+
+PKD1_protein | Human | 4303aa 2501 AEDAGAPLVYALLLRRCRQGHCEEFCVYKGSLSSYGAVLPPGFRPHFEVG   2550
+                                       | |    |   | | | |                            
+S1                             107 ----GVPRIRQL---RVRNGSC----------------------------    121
+
+PKD1_protein | Human | 4303aa 2551 LAVVVQDQLGAAVVALNRSLAITLPEPNGSATGLTVWLHGLTASVLPGLL   2600
+                                                                                     
+S1                             122 --------------------------------------------------    121
+
+PKD1_protein | Human | 4303aa 2601 RQADPQHVIEYSLALVTVLNEYERALDVAAEPKHERQHRAQIRKNITETL   2650
+                                                                                     
+S1                             122 --------------------------------------------------    121
+
+PKD1_protein | Human | 4303aa 2651 VSLRVHTVDDIQQIAAALAQCMGPSRELVCRSCLKQTLHKLEAMMLILQA   2700
+                                                                                     
+S1                             122 --------------------------------------------------    121
+
+PKD1_protein | Human | 4303aa 2701 ETTAGTVTPTAIGDSILNITGDLIHLASSDVRAPQPSELGAESPSRMVAS   2750
+                                                                                     
+S1                             122 --------------------------------------------------    121
+
+PKD1_protein | Human | 4303aa 2751 QAYNLTSALMRILMRSRVLNEEPLTLAGEEIVAQGKRSDPRSLLCYGGAP   2800
+                                                                                     
+S1                             122 --------------------------------------------------    121
+
+PKD1_protein | Human | 4303aa 2801 GPGCHFSIPEAFSGALANLSDVVQLIFLVDSNPFPFGYISNYTVSTKVAS   2850
+                                         |||                                         
+S1                             122 ------SIPQD---------------------------------------    126
+
+PKD1_protein | Human | 4303aa 2851 MAFQTQAGAQIPIERLASERAITVKVPNNSDWAARGHRSSANSANSVVVQ   2900
+                                                                                     
+S1                             127 --------------------------------------------------    126
+
+PKD1_protein | Human | 4303aa 2901 PQASVGAVVTLDSSNPAAGLHLQLNYTLLDGHYLSEEPEPYLAVYLHSEP   2950
+                                                                                     
+S1                             127 --------------------------------------------------    126
+
+PKD1_protein | Human | 4303aa 2951 RPNEHNCSASRRIRPESLQGADHRPYTFFISPGSRDPAGSYHLNLSSHFR   3000
+                                                                                     
+S1                             127 --------------------------------------------------    126
+
+PKD1_protein | Human | 4303aa 3001 WSALQVSVGLYTSLCQYFSEEDMVWRTEGLLPLEETSPRQAVCLTRHLTA   3050
+                                                                                     
+S1                             127 --------------------------------------------------    126
+
+PKD1_protein | Human | 4303aa 3051 FGASLFVPPSHVRFVFPEPTADVNYIVMLTCAVCLVTYMVMAAILHKLDQ   3100
+                                                                                     
+S1                             127 --------------------------------------------------    126
+
+PKD1_protein | Human | 4303aa 3101 LDASRGRAIPFCGQRGRFKYEILVKTGWGRGSGTTAHVGIMLYGVDSRSG   3150
+                                                                                     
+S1                             127 --------------------------------------------------    126
+
+PKD1_protein | Human | 4303aa 3151 HRHLDGDRAFHRNSLDIFRIATPHSLGSVWKIRVWHDNKGLSPAWFLQHV   3200
+                                                                                     
+S1                             127 --------------------------------------------------    126
+
+PKD1_protein | Human | 4303aa 3201 IVRDLQTARSAFFLVNDWLSVETEANGGLVEKEVLAASDAALLRFRRLLV   3250
+                                     ||                                              
+S1                             127 -LRD----------------------------------------------    129
+
+PKD1_protein | Human | 4303aa 3251 AELQRGFFDKHIWLSIWDRPPRSRFTRIQRATCCVLLICLFLGANAVWYG   3300
+                                                                                     
+S1                             130 --------------------------------------------------    129
+
+PKD1_protein | Human | 4303aa 3301 AVGDSAYSTGHVSRLSPLSVDTVAVGLVSSVVVYPVYLAILFLFRMSRSK   3350
+                                                                                     
+S1                             130 --------------------------------------------------    129
+
+PKD1_protein | Human | 4303aa 3351 VAGSPSPTPAGQQVLDIDSCLDSSVLDSSFLTFSGLHAEQAFVGQMKSDL   3400
+                                                   |  | |                            
+S1                             130 ---------------EIKECYDV---------------------------    137
+
+PKD1_protein | Human | 4303aa 3401 FLDDSKSLVCWPSGEGTLSWPDLLSDPSIVGSNLRQLARGQAGHGLGPEE   3450
+                                                                                     
+S1                             138 --------------------------------------------------    137
+
+PKD1_protein | Human | 4303aa 3451 DGFSLASPYSPAKSFSASDEDLIQQVLAEGVSSPAPTQDTHMETDLLSSL   3500
+                                                  | | ||                             
+S1                             138 --------------YSVSSED-----------------------------    144
+
+PKD1_protein | Human | 4303aa 3501 SSTPGEKTETLALQRLGELGPPSPGLNWEQPQAARLSRTGLVEGLRKRLL   3550
+                                                                                     
+S1                             145 --------------------------------------------------    144
+
+PKD1_protein | Human | 4303aa 3551 PAWCASLAHGLSLLLVAVAVAVSGWVGASFPPGVSVAWLLSSSASFLASF   3600
+                                                                                     
+S1                             145 --------------------------------------------------    144
+
+PKD1_protein | Human | 4303aa 3601 LGWEPLKVLLEALYFSLVAKRLHPDEDDTLVESPAVTPVSARVPRVRPPH   3650
+                                                                                 | | 
+S1                             145 ----------------------------------------------RAPF    148
+
+PKD1_protein | Human | 4303aa 3651 GFALFLAKEEARKVKRLHGMLRSLLVYMLFLLVTLLASYGDASCHGHAYR   3700
+                                   |                                                 
+S1                             149 G-------------------------------------------------    149
+
+PKD1_protein | Human | 4303aa 3701 LQSAIKQELHSRAFLAITRSEELWPWMAHVLLPYVHGNQSSPELGPPRLR   3750
+                                                                                     
+S1                             150 --------------------------------------------------    149
+
+PKD1_protein | Human | 4303aa 3751 QVRLQEALYPDPPGPRVHTCSAAGGFSTSDYDVGWESPHNGSGTWAYSAP   3800
+                                                                        | ||      |  
+S1                             150 -------------------------------------PRNGTAWIYTSEK    162
+
+PKD1_protein | Human | 4303aa 3801 DLLGAWSWGSCAVYDSGGYVQELGLSLEESRDRLRFLQLHNWLDNRSRAV   3850
+                                   || |   ||  | |   ||   |    ||       |    |||   || 
+S1                             163 DLNGSSHWGIIATYSGAGYYLDLSRTREETAAQVASLKKNVWLDRGTRAT    212
+
+PKD1_protein | Human | 4303aa 3851 FLELTRYSPAVGLHAAVTLRLEFPAAGRALAALSVRPFALRRLSAGLSLP   3900
+                                   |     |     |   | |  |||| |         |  | |        
+S1                             213 FIDFSVYNANINLFCVVRLLVEFPATGGVIPSWQFQPLKLIRYVTTFDFF    262
+
+PKD1_protein | Human | 4303aa 3901 LLTSVCLLLFAVHFAVAEARTWHREGRWRVLRLGAWARWLLVALTAATAL   3950
+                                   |        |     | |     |       |   |     |        
+S1                             263 LAACEIIFCFFIFYYVVEEILEIRIHKLHYFR-SFWNCLDVVIVVLSVVA    311
+
+PKD1_protein | Human | 4303aa 3951 VRLAQLGAADRQWTRFVRGRPRRFTSFDQVAQLSSAARGLAASLLFLLLV   4000
+                                                          |  |   |         ||   |    
+S1                             312 IGINIYRTSNVEVLLQFLEDQNTFPNFEHLAYWQIQFNNIAAVTVFFVWI    361
+
+PKD1_protein | Human | 4303aa 4001 KAAQQLRFVRQWSVFGKTLCRALPELLGVTLGLVVLGVAYAQLAILLVSS   4050
+                                   |      | |  |    |  |    | |          |||||| |    
+S1                             362 KLFKFINFNRTMSQLSTTMSRCAKDLFGFAIMFIIF-LAYAQLAYLVFGT    410
+
+PKD1_protein | Human | 4303aa 4051 CVDSLWSVAQALLVLCPGTGLSTLCPAESWHLSPLLCVGLWALRLWGALR   4100
+                                    ||                                               
+S1                             411 QVDDFSTFQECIFT------------------------------------    424
+
+PKD1_protein | Human | 4303aa 4101 LGAVILRWRYHALRGELYRPAWEPQDYEMVELFLRRLRLWMGLSKVKEFR   4150
+                                                 |       |                 |         
+S1                             425 --------QFRIILGDINFAEIEEANRVLGPIYFTTFVFFM---------    457
+
+PKD1_protein | Human | 4303aa 4151 HKVRFEGMEPLPSRSSRGSKVSPDVPPPSAGSDASHPSTSSSQLDGLSVS   4200
+                                                                                     
+S1                             458 --------------------------------------------------    457
+
+PKD1_protein | Human | 4303aa 4201 LGRLGTRCEPEPSRLQAVFEALLTQFDRLNQATEDVYQLEQQLHSLQGRR   4250
+                                                     |  ||  |        | |             
+S1                             458 ------------------FFILLNMFLAI---INDTYS------------    474
+
+PKD1_protein | Human | 4303aa 4251 SSRAPAGSSRGPSPGLRPALPSRLARASRGVDLATGPSRTPLRAKNKVHP   4300
+                                                        | ||       |                 
+S1                             475 ------------------EVKSDLAQQKAEMEL-----------------    489
+
+PKD1_protein | Human | 4303aa 4301 SST   4303
+                                      
+S1                             490 ---    489
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: PKD2_protein | Human | 968aa
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 14.0
+# Extend_penalty: 4.0
+#
+# Length: 968
+# Identity:     489/968 (50.5%)
+# Similarity:    NA/968 (NA%)
+# Gaps:         479/968 (49.5%)
+# Score: 603
+#
+#
+#=======================================
+
+PKD2_protein | Human | 968aa   1 MVNSSRVQPQQPGDAKRPPAPRAPDPGRLMAGCAAVGASLAAPGGLCEQR     50
+                                                                                   
+S1                             1 --------------------------------------------------      0
+
+PKD2_protein | Human | 968aa  51 GLEIEMQRIRQAAARDPPAGAAASPSPPLSSCSRQAWSRDNPGFEAEEEE    100
+                                                                                   
+S1                             1 --------------------------------------------------      0
+
+PKD2_protein | Human | 968aa 101 EEVEGEEGGMVVEMDVEWRPGSRRSAASSAVSSVGARSRGLGGYHGAGHP    150
+                                                                                   
+S1                             1 --------------------------------------------------      0
+
+PKD2_protein | Human | 968aa 151 SGRRRRREDQGPPCPSPVGGGDPLHRHLPLEGQPPRVAWAERLVRGLRGL    200
+                                                                                   
+S1                             1 --------------------------------------------------      0
+
+PKD2_protein | Human | 968aa 201 WGTRLMEESSTNREKYLKSVLRELVTYLLFLIVLCILTYGMMSSNVYYYT    250
+                                           ||||||||||||||||||||||||||||||||||||||||
+S1                             1 ----------TNREKYLKSVLRELVTYLLFLIVLCILTYGMMSSNVYYYT     40
+
+PKD2_protein | Human | 968aa 251 RMMSQLFLDTPVSKTEKTNFKTLSSMEDFWKFTEGSLLDGLYWKMQPSNQ    300
+                                 ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                            41 RMMSQLFLDTPVSKTEKTNFKTLSSMEDFWKFTEGSLLDGLYWKMQPSNQ     90
+
+PKD2_protein | Human | 968aa 301 TEADNRSFIFYENLLLGVPRIRQLRVRNGSCSIPQDLRDEIKECYDVYSV    350
+                                 ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                            91 TEADNRSFIFYENLLLGVPRIRQLRVRNGSCSIPQDLRDEIKECYDVYSV    140
+
+PKD2_protein | Human | 968aa 351 SSEDRAPFGPRNGTAWIYTSEKDLNGSSHWGIIATYSGAGYYLDLSRTRE    400
+                                 ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                           141 SSEDRAPFGPRNGTAWIYTSEKDLNGSSHWGIIATYSGAGYYLDLSRTRE    190
+
+PKD2_protein | Human | 968aa 401 ETAAQVASLKKNVWLDRGTRATFIDFSVYNANINLFCVVRLLVEFPATGG    450
+                                 ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                           191 ETAAQVASLKKNVWLDRGTRATFIDFSVYNANINLFCVVRLLVEFPATGG    240
+
+PKD2_protein | Human | 968aa 451 VIPSWQFQPLKLIRYVTTFDFFLAACEIIFCFFIFYYVVEEILEIRIHKL    500
+                                 ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                           241 VIPSWQFQPLKLIRYVTTFDFFLAACEIIFCFFIFYYVVEEILEIRIHKL    290
+
+PKD2_protein | Human | 968aa 501 HYFRSFWNCLDVVIVVLSVVAIGINIYRTSNVEVLLQFLEDQNTFPNFEH    550
+                                 ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                           291 HYFRSFWNCLDVVIVVLSVVAIGINIYRTSNVEVLLQFLEDQNTFPNFEH    340
+
+PKD2_protein | Human | 968aa 551 LAYWQIQFNNIAAVTVFFVWIKLFKFINFNRTMSQLSTTMSRCAKDLFGF    600
+                                 ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                           341 LAYWQIQFNNIAAVTVFFVWIKLFKFINFNRTMSQLSTTMSRCAKDLFGF    390
+
+PKD2_protein | Human | 968aa 601 AIMFFIIFLAYAQLAYLVFGTQVDDFSTFQECIFTQFRIILGDINFAEIE    650
+                                 |||| |||||||||||||||||||||||||||||||||||||||||||||
+S1                           391 AIMF-IIFLAYAQLAYLVFGTQVDDFSTFQECIFTQFRIILGDINFAEIE    439
+
+PKD2_protein | Human | 968aa 651 EANRVLGPIYFTTFVFFMFFILLNMFLAIINDTYSEVKSDLAQQKAEMEL    700
+                                 ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                           440 EANRVLGPIYFTTFVFFMFFILLNMFLAIINDTYSEVKSDLAQQKAEMEL    489
+
+PKD2_protein | Human | 968aa 701 SDLIRKGYHKALVKLKLKKNTVDDISESLRQGGGKLNFDELRQDLKGKGH    750
+                                                                                   
+S1                           490 --------------------------------------------------    489
+
+PKD2_protein | Human | 968aa 751 TDAEIEAIFTKYDQDGDQELTEHEHQQMRDDLEKEREDLDLDHSSLPRPM    800
+                                                                                   
+S1                           490 --------------------------------------------------    489
+
+PKD2_protein | Human | 968aa 801 SSRSFPRSLDDSEEDDDEDSGHSSRRRGSISSGVSYEEFQVLVRRVDRME    850
+                                                                                   
+S1                           490 --------------------------------------------------    489
+
+PKD2_protein | Human | 968aa 851 HSIGSIVSKIDAVIVKLEIMERAKLKRREVLGRLLDGVAEDERLGRDSEI    900
+                                                                                   
+S1                           490 --------------------------------------------------    489
+
+PKD2_protein | Human | 968aa 901 HREQMERLVREELERWESDDAASQISHGLGTPVGLNGQPRPRSSRPSSSQ    950
+                                                                                   
+S1                           490 --------------------------------------------------    489
+
+PKD2_protein | Human | 968aa 951 STEGMEGAGGNGSSNVHV    968
+                                                   
+S1                           490 ------------------    489
+
+
+#---------------------------------------
+#---------------------------------------
